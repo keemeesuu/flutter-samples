@@ -28,7 +28,6 @@ DrawerHeader
 CircleAvatar  
 AspectRatio  
 PageView 
-|
 | fff | abcd |
 
 
