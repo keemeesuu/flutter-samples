@@ -11,8 +11,8 @@ A collection of Flutter examples and demos
 
 
 <p float="left">
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="50%" />
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="50%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="48%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="48%" />
 </p>
 
 대표적 위젯
