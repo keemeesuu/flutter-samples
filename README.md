@@ -11,10 +11,14 @@ A collection of Flutter examples and demos
 
 <ul>
 <li style="display:line;width:50%;">
+
 ![image](https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png)
+
 </li>
 <li style="display:line;width:50%;">
+
 ![image](https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png)
+
 </li>
 <ul>
 
