@@ -15,7 +15,7 @@ A collection of Flutter examples and demos
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="49%" />
 </p>
 
-대표적 위젯
+#### Widgets
 
 - Scaffold
 - AppBar
