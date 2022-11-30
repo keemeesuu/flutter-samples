@@ -7,8 +7,30 @@ A collection of Flutter examples and demos
 
 
 <p float="left">
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="49%" />
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="49%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="33%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="33%" />
+    <span>
+        - Scaffold
+        - AppBar
+        - Text
+        - IconButton
+        - Column
+        - Padding
+        - TextField
+        - Divider
+        - Expanded
+        - ListView.builder
+        - Card
+        - Stack
+        - Image
+        AssetImage
+        - Container
+        - Drawer
+        - DrawerHeader
+        - CircleAvatar
+        - AspectRatio
+        - PageView
+    </span>
 </p>
 
 ### Widgets
@@ -37,7 +59,6 @@ A collection of Flutter examples and demos
 
 ## [Instagram](https://github.com/keemeesuu/flutter-samples/tree/main/samples/instagram)
 
-진행중
 
 
 ## Study Site
