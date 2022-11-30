@@ -9,28 +9,6 @@ A collection of Flutter examples and demos
 <p float="left">
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="32%" />
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="32%" />
-    <span style="inline-block; vertical-align: top; width: 32%;">
-        - Scaffold<br>
-        - AppBar<br>
-        - Text<br>
-        - IconButton<br>
-        - Column<br>
-        - Padding<br>
-        - TextField<br>
-        - Divider<br>
-        - Expanded<br>
-        - ListView.builder<br>
-        - Card<br>
-        - Stack<br>
-        - Image<br>
-        - AssetImage<br>
-        - Container<br>
-        - Drawer<br>
-        - DrawerHeader<br>
-        - CircleAvatar<br>
-        - AspectRatio<br>
-        - PageView<br>
-    </span>
 </p>
 
 ### Widgets
@@ -70,4 +48,9 @@ A collection of Flutter examples and demos
 <!--
 reference
 https://github.com/diegoveloper/flutter-samples
+
+
+https://github.com/annshsingh/FlutterWidgetGuide
+나도 이렇게 플러터 위젯가이드를 만들자.
+
 -->
