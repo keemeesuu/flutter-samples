@@ -35,9 +35,16 @@ Basic Widgets and
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/instagram.png"  width="32%" />
 </p>
 
+just instagram front page clone.
 
-- main UI
+
+### Widgets
+
+Basic Widgets and
+
 - ListView.builder
+- Container, BoxConstraints
+- AssetImage
 
 
 
