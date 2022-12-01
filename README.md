@@ -34,10 +34,7 @@ A collection of Flutter examples and demos
 - AspectRatio
 - PageView
 
-
 ## [Instagram](https://github.com/keemeesuu/flutter-samples/tree/main/samples/instagram)
-
-
 
 ## Study Site
 
