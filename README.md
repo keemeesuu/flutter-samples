@@ -13,7 +13,7 @@ A collection of Flutter examples and demos
 
 ### Widgets
 
-Basic Widgets 외
+Basic Widgets and
 
 - IconButton
 - Divider
