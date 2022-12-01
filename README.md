@@ -13,21 +13,15 @@ A collection of Flutter examples and demos
 
 ### Widgets
 
-- Scaffold
-- AppBar
-- Text
+Basic Widgets 외
+
 - IconButton
-- Column
-- Padding
-- TextField
 - Divider
 - Expanded
 - ListView.builder
 - Card
 - Stack
-- Image
-    AssetImage
-- Container
+- AssetImage
 - Drawer
 - DrawerHeader
 - CircleAvatar
@@ -40,6 +34,10 @@ A collection of Flutter examples and demos
 <p float="left">
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/instagram.png"  width="32%" />
 </p>
+
+
+- main UI
+- ListView.builder
 
 
 
