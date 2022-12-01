@@ -7,8 +7,8 @@ A collection of Flutter examples and demos
 
 
 <p float="left">
-    <img src="https://github.com/keemeesuu/flutter-samples/images/food_recipe_01.png"  width="32%" />
-    <img src="https://github.com/keemeesuu/flutter-samples/images/food_recipe_02.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_01.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="32%" />
 </p>
 
 ### Widgets
@@ -38,7 +38,7 @@ A collection of Flutter examples and demos
 
 
 <p float="left">
-    <img src="https://github.com/keemeesuu/flutter-samples/images/instagram.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/instagram.png"  width="32%" />
 </p>
 
 
