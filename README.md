@@ -57,6 +57,8 @@ Basic Widgets and
 - Stack
     Positioned
 - GestureDetector
+- Expanded
+- FittedBox
 
 
 ## Study Site
