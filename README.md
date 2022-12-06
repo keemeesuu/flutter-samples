@@ -47,6 +47,16 @@ Basic Widgets and
 - AssetImage
 
 
+## Miso & Starbuks
+
+
+### Widgets
+
+- BottomNavigationBar
+- IndexedStack
+- Stack
+    Positioned
+- GestureDetector
 
 
 ## Study Site
