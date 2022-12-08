@@ -1,4 +1,4 @@
-A collection of Flutter examples and demos
+A collection of Flutter UI examples and demos
 
 # Flutter Samples
 
@@ -49,7 +49,10 @@ Basic Widgets and
 
 ## Miso
 <p float="left">
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/instagram.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_01.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_02.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_03.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_04.png"  width="32%" />
 </p>
 
 ### Widgets
@@ -63,13 +66,23 @@ Basic Widgets and
 - FittedBox
 
 
-## Starbuks
+## Starbucks
 
+<p float="left">
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_01.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_02.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_03.png"  width="32%" />
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_04.png"  width="32%" />
+</p>
 
 - IndexedStack
 - DefaultTabController
 - TabBar
 - TabBarView
+
+<br>
+<br>
+<br>
 
 ## Study Site
 
