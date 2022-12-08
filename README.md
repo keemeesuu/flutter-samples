@@ -48,7 +48,9 @@ Basic Widgets and
 
 
 ## Miso
-
+<p float="left">
+    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/instagram.png"  width="32%" />
+</p>
 
 ### Widgets
 
