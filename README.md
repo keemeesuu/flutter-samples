@@ -47,7 +47,7 @@ Basic Widgets and
 - AssetImage
 
 
-## Miso & Starbuks
+## Miso
 
 
 ### Widgets
@@ -60,6 +60,11 @@ Basic Widgets and
 - Expanded
 - FittedBox
 
+
+## Starbuks
+
+
+- IndexedStack
 - DefaultTabController
 - TabBar
 - TabBarView
