@@ -70,7 +70,6 @@ Basic Widgets and
 
 <p float="left">
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_01.png"  width="32%" />
-    <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_02.png"  width="32%" />
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_03.png"  width="32%" />
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_04.png"  width="32%" />
 </p>
