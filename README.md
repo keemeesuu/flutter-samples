@@ -11,7 +11,9 @@ A collection of Flutter UI examples and demos
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/food_recipe_02.png"  width="32%" />
 </p>
 
-### Widgets
+<br>
+
+### Specific Widgets
 
 Basic Widgets and
 
@@ -28,6 +30,8 @@ Basic Widgets and
 - AspectRatio
 - PageView
 
+<br>
+
 ## [Instagram](https://github.com/keemeesuu/flutter-samples/tree/main/samples/instagram)
 
 
@@ -38,7 +42,7 @@ Basic Widgets and
 just instagram front page clone.
 
 
-### Widgets
+### Specific Widgets
 
 Basic Widgets and
 
@@ -46,8 +50,10 @@ Basic Widgets and
 - Container, BoxConstraints
 - AssetImage
 
+<br>
 
 ## Miso
+
 <p float="left">
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_01_1.png"  width="32%" />
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_02.png"  width="32%" />
@@ -55,7 +61,7 @@ Basic Widgets and
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/miso_04.png"  width="32%" />
 </p>
 
-### Widgets
+### Specific Widgets
 
 - BottomNavigationBar
 - IndexedStack
@@ -65,6 +71,7 @@ Basic Widgets and
 - Expanded
 - FittedBox
 
+<br>
 
 ## Starbucks
 
@@ -73,6 +80,8 @@ Basic Widgets and
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_03.png"  width="32%" />
     <img src="https://github.com/keemeesuu/flutter-samples/blob/main/images/starbucks_04.png"  width="32%" />
 </p>
+
+### Specific Widgets
 
 - IndexedStack
 - DefaultTabController
